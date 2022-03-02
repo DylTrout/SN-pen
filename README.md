@@ -1,6 +1,8 @@
 # SN-pen
 A script to change default pens in SMART Notebook when told that you cannot and some files ripped from SMART Notebook
 
+THIS SCRIPT IS NOT COMPLETE YET, PLEASE WAIT UNTIL SCRIPT IS COMPLETED
+
 I'm writing this because my teacher cannot edit his pens and I don't want to take a long time in class to fix this issue
 
 All that should be needed is an internet connection, an Admisistrator account with password, A little bit of free space, and read/write permissions for this to work on Windows 10

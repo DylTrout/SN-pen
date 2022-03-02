@@ -1,0 +1,7 @@
+#This is a file to help lay out my thoughts for later use
+
+#This would download this repo's readme
+curl -O https://github.com/DylTrout/SN-pen/raw/main/README.md
+
+#This is the directory of the files of my example default files
+"%HOMEPATH%\Documents\SMART Notebook"

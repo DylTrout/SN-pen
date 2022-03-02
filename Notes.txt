@@ -1,13 +1,18 @@
 #This is a file to help lay out my thoughts for later use
 
+# New idea: Run as administrator may allow user to edit pens
+
+#You can edit the pens in this file, I'd recommend using Notepad++ with the XML Tools plugin for pretty print
+%HOMEPATH%\Documents\SMART Notebook\ToolsMenu.xml
+
 #This would download this repo's readme
 curl -O https://github.com/DylTrout/SN-pen/raw/main/README.md
 
 #This is the directory of the files of my example default files
 "%HOMEPATH%\Documents\SMART Notebook"
 
-#It seems that this is the file that stores the pen settings 
+#This is the file that stores the pen settings 
 ToolsMenu.xml
 
-#It looks like this is the label for the section containing the pens settings
+#The label for the section containing the pens settings
 <title>pens</title>

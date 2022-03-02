@@ -11,4 +11,5 @@ Open command prompt by following these steps:
 3. press Enter
 
 Simply input this one-liner into command prompt and it will do the rest:
+
 cd %HOMEPATH%/Downloads && curl -O https://raw.githubusercontent.com/DylTrout/SN-pen/main/script.bat && powershell -command "Start-Process cmd -ArgumentList '/c cd /d %CD% && script.bat' -Verb runas" && echo done

@@ -3,6 +3,8 @@ A script to change default pens in SMART Notebook when told that you cannot and 
 
 I'm writing this because my teacher cannot edit his pens and I don't want to take a long time in class to fix this issue
 
+This is untested at the moment, I will update when the results are in
+
 All that should be needed is an internet connection, A little bit of free space, and read/write permissions for this to work on Windows 10
 
 Open command prompt by following these steps:
@@ -12,4 +14,6 @@ Open command prompt by following these steps:
 
 Simply input this one-liner into command prompt and it will do the rest:
 
-cd %HOMEPATH%/Downloads && curl -O https://raw.githubusercontent.com/DylTrout/SN-pen/main/script.bat && script.bat && echo done
+cd %HOMEPATH%/Downloads && curl -LJO https://raw.githubusercontent.com/DylTrout/SN-pen/main/script.bat && script.bat && echo done
+
+For more info look at Notes.txt

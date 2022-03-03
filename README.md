@@ -14,6 +14,6 @@ Open command prompt by following these steps:
 
 Simply input this one-liner into command prompt and it will do the rest:
 
-cd %HOMEPATH%/Downloads && curl -LJO https://raw.githubusercontent.com/DylTrout/SN-pen/main/script.bat && script.bat && echo done
+cd %HOMEPATH%\Downloads && curl -LJO https://raw.githubusercontent.com/DylTrout/SN-pen/main/script.bat && script.bat && echo done
 
 For more info look at Notes.txt

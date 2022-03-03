@@ -3,7 +3,7 @@ A script to change default pens in SMART Notebook when told that you cannot and 
 
 I'm writing this because my teacher cannot edit his pens and I don't want to take a long time in class to fix this issue
 
-This is untested at the moment, I will update when the results are in
+This Currently doesn't work, I am currently working on a different method
 
 All that should be needed is an internet connection, A little bit of free space, and read/write permissions for this to work on Windows 10
 

@@ -16,3 +16,10 @@ ToolsMenu.xml
 
 #The label for the section containing the pens settings
 <title>pens</title>
+
+###############################################################################
+
+I'm now investigating what it does when I change the size using Process Monitor
+It seems to be either a registry key or a file
+Interesting locations:
+HKU\S-1-5-21-3857019390-1887507686-3714273063-1002\SOFTWARE\SMART Technologies\Notebook Software\SMART Notebook\Settings
